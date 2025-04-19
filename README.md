@@ -12,7 +12,7 @@ Key Features:
 ## Table of Contents
 - Installation
 - Usage
-
-
+- File Structure
+- Technologies Used
 
 
