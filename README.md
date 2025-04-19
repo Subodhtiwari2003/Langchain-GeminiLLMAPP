@@ -8,3 +8,5 @@ Key Features:
 - Gemini API: Multimodal support for text, images, audio, and video inputs.
 - Customizable: Tailored to specific datasets for domain-oriented applications.
 - Scalable Backend: Designed for efficient deployment and real-world usage.
+
+## Table of Contents
