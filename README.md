@@ -14,5 +14,9 @@ Key Features:
 - Usage
 - File Structure
 - Technologies Used
+- Contributing
+- License
+- Acknowledgments
+
 
 
