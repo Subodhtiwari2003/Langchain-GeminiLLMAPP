@@ -22,5 +22,11 @@ Key Features:
 
 ## Prerequisites:
 
+- Python 3.7 or higher
+- API key for Gemini (obtainable from Gemini API Documentation)
+
+
+
+
 
 
