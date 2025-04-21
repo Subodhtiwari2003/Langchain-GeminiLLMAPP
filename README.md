@@ -26,4 +26,12 @@ Key Features:
 - Required Python libraries (listed in requirements.txt)
 
 ## Technologies Used
+
 ## Core Frameworks:
+
+- Langchain: Pipeline-based processing and memory management for complex language tasks.
+- Gemini API: Multimodal data handling to extend chatbot capabilities.
+
+
+
+
