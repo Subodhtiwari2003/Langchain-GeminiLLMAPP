@@ -26,3 +26,4 @@ Key Features:
 - Required Python libraries (listed in requirements.txt)
 
 ## Technologies Used
+## Core Frameworks:
