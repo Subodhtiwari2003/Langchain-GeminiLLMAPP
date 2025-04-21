@@ -25,13 +25,4 @@ Key Features:
 - API key for Gemini (obtainable from Gemini API Documentation)
 - Required Python libraries (listed in requirements.txt)
 
-## Setup Instructions:
-
-
-
-
-
-
-
-
-
+## Technologies Used
