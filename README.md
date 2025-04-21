@@ -32,6 +32,4 @@ Key Features:
 - Langchain: Pipeline-based processing and memory management for complex language tasks.
 - Gemini API: Multimodal data handling to extend chatbot capabilities.
 
-
-
-
+## Programming Language:
