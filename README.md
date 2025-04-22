@@ -33,3 +33,7 @@ Key Features:
 - Gemini API: Multimodal data handling to extend chatbot capabilities.
 
 ## Programming Language:
+- Python
+
+
+
