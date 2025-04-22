@@ -36,5 +36,7 @@ Key Features:
 - Python
 
 ## Libraries:
+- Hugging Face Transformers for NLP
+- Streamlit (optional) for an interactive user interface
 
 
