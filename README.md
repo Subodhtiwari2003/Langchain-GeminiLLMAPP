@@ -42,6 +42,4 @@ Key Features:
 ## Contributing
 We welcome contributions to improve Langchain-Gemini. To contribute:
 1- Fork the Repository.
-
-
-
+2- Create a Branch:
