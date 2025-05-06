@@ -40,5 +40,7 @@ Key Features:
 - Streamlit (optional) for an interactive user interface
 
 ## Contributing
+We welcome contributions to improve Langchain-Gemini. To contribute:
+
 
 
