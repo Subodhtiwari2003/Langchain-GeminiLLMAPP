@@ -50,3 +50,4 @@ git commit -m "Add feature: Your Feature Name"
 git push origin feature/your-feature-name
 
 ## License
+This project is licensed
