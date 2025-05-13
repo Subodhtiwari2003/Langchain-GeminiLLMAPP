@@ -50,4 +50,4 @@ git commit -m "Add feature: Your Feature Name"
 git push origin feature/your-feature-name
 
 ## License
-This project is licensed
+This project is licensed under the MIT License. See the LICENSE file for detailed terms.
